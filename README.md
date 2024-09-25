@@ -18,12 +18,10 @@ To achieve the 3D visualization, I utilized **Three.js**, a popular JavaScript l
 
 Below is a video demonstration of the flocking behavior simulation in action:
 
-<video width="600" controls>
-  <source src="https://github.com/WanneWisse/flocking-behavior/raw/main/movie.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/82caa7a3-5aa4-4414-a6cd-5ee319a3b944
 
-Alternatively, [download the video](https://github.com/WanneWisse/flocking-behavior/raw/main/movie.mp4).
+
+<video src="https://github.com/WanneWisse/flocking-behavior/raw/main/movie.mp4"></video>
 
 ## 📦 How to Run the Project
 
