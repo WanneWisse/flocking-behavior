@@ -22,9 +22,3 @@ https://github.com/user-attachments/assets/82caa7a3-5aa4-4414-a6cd-5ee319a3b944
 
 
 <video src="https://github.com/WanneWisse/flocking-behavior/raw/main/movie.mp4"></video>
-
-## 📦 How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/your_repo_name.git
